@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:orientation="horizontal"
+        android:clickable="true"
+        android:onClick="onclick"
+        >
+        <ImageView
+            android:id="@+id/imback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/iphone_button_arraw_bg_unpress_1"
+            android:scaleType="centerCrop" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="50dp"
+            android:textColor="#0033ff"
+            android:text="111" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="50dp"
+            android:textColor="#0033ff"
+            android:text="111" />
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#dedede"
+        />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:gravity="center_vertical"
+            android:layout_height="40dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/app_name"
+                android:layout_marginLeft="10dp"
+                android:layout_centerVertical="true"
+                />
+            <ToggleButton
+                android:id="@+id/to1"
+                android:layout_width="50dp"
+                android:layout_height="30dp"
+                android:background="@drawable/toggle_drawable_selector"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:textOn="@null"
+                android:textOff="@null"
+                />
+        </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#dedede"
+        />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:gravity="center_vertical"
+        android:layout_height="40dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="未插入SIM卡"
+            android:layout_centerVertical="true"
+            />
+        <ToggleButton
+            android:id="@+id/to2"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:background="@drawable/toggle_drawable_selector"
+            android:layout_alignParentRight="true"
+            android:textOn="@null"
+            android:textOff="@null"
+            />
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#dedede"
+        />
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="#dedede"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="qqqqqqq"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="10dp"
+        />
+
+</RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/hjz/.android/build-cache/a7fea5a15ab13b0984795737ff762c4e21d1bbdf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/media/hjz/work/日志文件/mygit /TimeView/app/build/intermediates/pre-dexed/debug/classes_1b08ad59ad173b1b27bad64297ab843885904f15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hjz/.android/build-cache/9e00e1416cf4c277bdb2b0c083fb76d0af5e4a2f/output/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/media/hjz/work/日志文件/mygit /TimeView/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_e76ec8f832985283bbeab966bb120a751d8b2522.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hjz/.android/build-cache/afeaa510a1b39a89078a813e56a598735bb7c9d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/media/hjz/work/日志文件/mygit /TimeView/app/build/intermediates/pre-dexed/debug/classes_6194e2fbbd736f5ee3120b783163be2260d7db04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hjz/.android/build-cache/9e00e1416cf4c277bdb2b0c083fb76d0af5e4a2f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/media/hjz/work/日志文件/mygit /TimeView/app/build/intermediates/pre-dexed/debug/classes_2fbdcb38c54f207ca880d1908bac5227d3fada81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hjz/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/media/hjz/work/日志文件/mygit /TimeView/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_07c9e1499c0aa5efb3c0c8c53799d52f11cf5804.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hjz/.android/build-cache/9123f73b90167e9be1cbd5362dcc3117c67b8c53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/media/hjz/work/日志文件/mygit /TimeView/app/build/intermediates/pre-dexed/debug/classes_cb455d5e91672acf69a5fdc3559af98c51c2cfa9.jar" />
+    </item>
+
+</items>
